@@ -6,8 +6,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "keystone-next dev",
-    "seed-data": "keystone-next --seed-data",
-    "preinstall": "npx npm-force-resolution"
+    "seed-data": "keystone-next --seed-data"
   },
   "eslintConfig": {
     "extends": "wesbos/typescript.js",
